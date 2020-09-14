@@ -1,0 +1,44 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background: #eee;
+}
+
+
+.Main-class{
+    margin-left: 120px;
+}
+
+.super{
+    width: 70%;
+    margin-left: 120px;
+}
+
+
+.common{
+    margin-top: 120px;
+}
+
+.card-common{
+    transition: all .4s ease;
+}
+
+.card-common:hover{
+    box-shadow: 2px 2px 5px #999;
+    transform: translateY(-10px);
+}
+
+.task-border-one{
+    border-top: 5px solid cyan ;
+}
+
+.task-border-two{
+    border-top: 5px solid red ;
+}
+
+.task-border-three{
+    border-top: 5px solid yellow ;
+}
+
+.task-border-four{
+    border-top: 5px solid blue;
+}
